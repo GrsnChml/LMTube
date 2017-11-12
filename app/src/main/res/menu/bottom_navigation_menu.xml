@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_tube"
+        android:enabled="true"
+        android:icon="@drawable/ic_tube_white_24dp"
+        android:title="@string/title_tube" />
+    <item
+        android:id="@+id/navigation_night"
+        android:enabled="true"
+        android:icon="@drawable/ic_night_white_24dp"
+        android:title="@string/title_night" />
+    <item
+        android:id="@+id/navigation_rail"
+        android:enabled="true"
+        android:icon="@drawable/ic_rail_white_24dp"
+        android:title="@string/title_rail" />
+</menu>
